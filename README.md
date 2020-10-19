@@ -1,5 +1,5 @@
-# testautomationworkshop
-Selenium&amp;TestNG&amp;Maven&amp;PageObjectDesignPattern
+# Test Automation Workshop
+
 
 **Tech Stack**
 
